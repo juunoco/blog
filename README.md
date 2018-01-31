@@ -8,7 +8,11 @@ A simple explanation has been written below, any unclarified questions can be fo
 
 Just in case, [Here's](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) a good guide to markdown 
 
+To include an image as a relative link:
+	* put the image in the assets folder
+	* link to it via [image_name]({{site.url}} /image-title.png )
 
+===
 
 If this is your first time on the blog, you will need to pull the latest git repo.
 ```
