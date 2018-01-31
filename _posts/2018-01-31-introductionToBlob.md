@@ -3,7 +3,7 @@ layout: post
 title: Let's Talk About Our First Game
 ---
 
-# {{page.title}}
+[# {{page.title}}]: <>(can include the title like this =50x50)
 
 This is my first time writing a blog post, or any type of media, so bear with me.  I wanted to describe our first and new project
 
@@ -33,7 +33,7 @@ To put it simply, we're trying to visually represent the experience of having to
 
 Let's say that you have `1` piece of cake. 
 
-![You Have One Piece Of Cake]({{ site.url }}/assets/dog_meditation2.png =50x50)
+![You Have One Piece Of Cake]({{ site.url }}/assets/dog_meditation2.png
 
 You will need to distribute that '1' piece of cake equally among `5` different people. 
 <center>How do you do it?
@@ -70,10 +70,13 @@ Each level has different requirements, and by fulfilling these requirements, you
 
 That's all I'm allowed to tell you about the rules of Blob, of course there's a lot more happening and it's an interesting experience, but you'll have to try it out yourself to know for sure :)
 
+
 ---
+
 <div style="text-align: right">
 Cheers, gieoon 31/01/2018
 </div>
+
 
 
 
