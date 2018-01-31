@@ -27,12 +27,12 @@ Posts will updated automatically according to listed date.
 
 Make sure to include your name/alias at the end of the blog post, and the date of publishing in format dd/mm/YYYY.
 
-to publish, simply push to the repo
+to publish, simply push to the repo through branch "gh-pages"
 ```
 	git add .
 	git status //check for status
 	git commit -m "<CLEAR COMMIT MESSAGE HERE>"
-	git push origin master
+	git push origin gh-pages
 ``` 
 
 Jekyll will identify and update the main site.
