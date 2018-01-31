@@ -13,3 +13,6 @@ Friends, family & girlfriend for allowing & supporting me to do what I love to d
 
 He makes a horrible cup of tea, lol.
 He is there and socializing with the people who come past, spanish tourists, woman and man, locals, etc.
+
+
+[# {{page.title}}]: <>(can include the title like this =50x50)

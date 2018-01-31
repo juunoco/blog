@@ -3,8 +3,6 @@ layout: post
 title: Let's Talk About Our First Game
 ---
 
-[# {{page.title}}]: <>(can include the title like this =50x50)
-
 This is my first time writing a blog post, or any type of media, so bear with me.  I wanted to describe our first and new project
 
 Juuno is developing a puzzle game called **Blob**. We've been working on it for about four months since last September and are preparing for gold release by the first half of 2018. It's an abstract game where you slice rectangles into different sizes to fulfill goals for the level.
