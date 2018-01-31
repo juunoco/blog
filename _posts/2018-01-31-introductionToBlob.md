@@ -1,9 +1,9 @@
 ---
 layout: post
-title: How Two Students Are Starting a Games Company
+title: Let's Talk About Our First Game
 ---
 
-#{{page.title}}
+# {{page.title}}
 
 This is my first time writing a blog post, or any type of media, so bear with me.  I wanted to describe our first and new project
 
@@ -21,13 +21,13 @@ However, we're also aiming for something relaxing, so that players can immerse t
 
 Every step of our journey, we keep reassessing what we're doing, and making sure that it aligns with these core values.
 
-##"Where Did You Get The Idea?"
+## "Where Did You Get The Idea?"
 
 Uncannily, the idea for [Blob](http://www.juuno.com/blob) was conceived and designed from a series of scribbles through two chapters of a Defensive Driving Course textbook...and a soft tissue. 
 
 You never know what will come up, so I always keep some tissue handy.
 
-##So, what is this game that we're crazy about, actually about?
+## So, what is this game that we're crazy about, actually about?
 
 To put it simply, we're trying to visually represent the experience of having to share one thing equally among many. 
 
@@ -60,7 +60,7 @@ Or maybe each person wants a different sized piece...
 
 It becomes more difficult when you take peoples' preferences into account.
 
-##Okay, So Blob is about cake?
+## Okay, So Blob is about cake?
 
 Blob is...kind of about cake.
 
@@ -71,7 +71,7 @@ Each level has different requirements, and by fulfilling these requirements, you
 That's all I'm allowed to tell you about the rules of Blob, of course there's a lot more happening and it's an interesting experience, but you'll have to try it out yourself to know for sure :)
 
 <div style="text-align: right">
-Cheers, `gieoon` 31/01/2018
+Cheers, 'gieoon' 31/01/2018
 </div>
 
 
