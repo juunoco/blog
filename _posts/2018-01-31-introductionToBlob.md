@@ -23,7 +23,7 @@ Every step of our journey, we keep reassessing what we're doing, and making sure
 
 ## "Where Did You Get The Idea?"
 
-Uncannily, the idea for [Blob](http://www.juuno.com/blob) was conceived and designed from a series of scribbles through two chapters of a Defensive Driving Course textbook...and a soft tissue. 
+Uncannily, the idea for [Blob](https://juunoco.github.io/blob) was conceived and designed from a series of scribbles through two chapters of a Defensive Driving Course textbook...and a soft tissue. 
 
 You never know what will come up, so I always keep some tissue handy.
 
@@ -33,7 +33,7 @@ To put it simply, we're trying to visually represent the experience of having to
 
 Let's say that you have `1` piece of cake. 
 
-![You Have One Piece Of Cake](../../../assets/dog_meditation2.png =50x50)
+![You Have One Piece Of Cake]({{ site.url }}/assets/dog_meditation2.png =50x50)
 
 You will need to distribute that '1' piece of cake equally among `5` different people. 
 <center>How do you do it?
@@ -50,7 +50,7 @@ It's easy</center>
 
 Okay, but what if the cake is one of those weird cakes that can't be easily split into five? _(For some reason...It's a Triangular Cake)_
 
-![The Scalene Triangle](../../../assets/scalene_triangle2.png)
+![The Scalene Triangle]({{ site.url }}/assets/scalene_triangle2.png)
 
 Or maybe each person wants a different sized piece...
 
