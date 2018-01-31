@@ -70,8 +70,9 @@ Each level has different requirements, and by fulfilling these requirements, you
 
 That's all I'm allowed to tell you about the rules of Blob, of course there's a lot more happening and it's an interesting experience, but you'll have to try it out yourself to know for sure :)
 
+---
 <div style="text-align: right">
-Cheers, 'gieoon' 31/01/2018
+Cheers, gieoon 31/01/2018
 </div>
 
 
