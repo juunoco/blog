@@ -10,7 +10,7 @@ Just in case, [Here's](https://github.com/adam-p/markdown-here/wiki/Markdown-Che
 
 To include an image as a relative link:
 	* put the image in the assets folder
-	* link to it via [image_name]({{site.url}} /image-title.png )
+	* link to it via markdown syntax ![image_name]({{site.url}} /image-title.png )
 
 ===
 
