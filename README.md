@@ -1,6 +1,6 @@
-#Juuno's Blog
+# Juuno's Blog
 
-##Creating a new Post:
+## Creating a new Post:
 
 Juuno Blog is using Jekyll and Ruby gems
 
@@ -41,13 +41,13 @@ Make sure to check the site for finalized info.
 [https://juunoco.github.io/blog/](https://juunoco.github.io/blog/)
 
 
-##Further ToDo:
+## Further ToDo:
 
 Create a press kit, maybe using pressKit();
 Use MAMP to create the web server, and run install.php from presskit() from there.
 
 
-BLOG IDEAS
+### FURTHER BLOG IDEAS
 
 Title:
 How Two Students Are Starting a Games Company
