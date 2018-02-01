@@ -19,7 +19,8 @@ defaults:
       path: "assets/img"
     values:
       image: true
-
+assets:
+    cache: false
 title: Juuno's Official Blog
 email: juunoco@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
