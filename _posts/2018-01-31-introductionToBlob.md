@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Let's Talk About Our First Game
+category: general
+tags: blob puzzle
 ---
 
 This is my first time writing a blog post, or any type of media, so bear with me.  I wanted to describe our first and new project
@@ -31,7 +33,7 @@ To put it simply, we're trying to visually represent the experience of having to
 
 Let's say that you have `1` piece of cake. 
 
-![You Have One Piece Of Cake]({{ site.url }}/assets/dog_meditation2.png)
+![You Have One Piece Of Cake]({{ site.url }} /assets/dog_meditation2.png)
 
 You will need to distribute that '1' piece of cake equally among `5` different people. 
 <center>How do you do it?
@@ -48,7 +50,7 @@ It's easy</center>
 
 Okay, but what if the cake is one of those weird cakes that can't be easily split into five? _(For some reason...It's a Triangular Cake)_
 
-![The Scalene Triangle]({{ site.url }}/assets/scalene_triangle2.png)
+![The Scalene Triangle]({{ site.url }} /assets/scalene_triangle2.png)
 
 Or maybe each person wants a different sized piece...
 
