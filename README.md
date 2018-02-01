@@ -10,11 +10,19 @@ Just in case, [Here's](https://github.com/adam-p/markdown-here/wiki/Markdown-Che
 
 To include an image as a relative link:
 	* put the image in the assets folder
-	* link to it via markdown syntax ![image_name]({{site.url}} /image-title.png )
-	* if the above doesn't work, link to the image by providing an absolute link, using http:
+	* link to it via markdown syntax ![image_name]({{site.url}} /image-title.png).
+	* If the above doesn't work, link to the image by providing an absolute link, using http.
+
+```
 	![image-alt-name](http://juunoco.github.io/blog/assets/img/dog_meditation2.png)
+
+```
+
+
 	
 ===
+
+
 
 If this is your first time on the blog, you will need to pull the latest git repo.
 ```
