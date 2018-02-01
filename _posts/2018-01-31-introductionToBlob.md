@@ -33,7 +33,7 @@ To put it simply, we're trying to visually represent the experience of having to
 
 Let's say that you have `1` piece of cake. 
 
-![You Have One Piece Of Cake]({{ site.url }}/assets/img/dog_meditation2.png)
+![You Have One Piece Of Cake]({{ "/assets/img/dog_meditation2.png" | absolute_url }})
 
 You will need to distribute that '1' piece of cake equally among `5` different people. 
 <center>How do you do it?
@@ -50,8 +50,8 @@ It's easy</center>
 
 Okay, but what if the cake is one of those weird cakes that can't be easily split into five? _(For some reason...It's a Triangular Cake)_
 
-![The Scalene Triangle]({{ site.url }}/assets/img/scalene_triangle2.png)
-![The Scalene Triangle](https://juunoco.github.io/blog/assets/img/scalene_triangle2.png)
+![The Scalene Triangle]({{ "/assets/img/scalene_triangle2.png" | absolute_url }})
+
 Or maybe each person wants a different sized piece...
 
 	* Jenny's on a diet and wants a small piece
