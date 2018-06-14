@@ -28,13 +28,14 @@ description: >- # this means to ignore newlines until "baseurl:"
   Powered by Jekyll
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "http://www.juunoco.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: juunoco
+twitter_username: juunoco1
 github_username:  juunoco
+facebook_username: juunoco
 # facebook_username: juunoco
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: minima #can include different themes here to make things more interesting and completely change the layout
 plugins:
   - jekyll-feed
 
