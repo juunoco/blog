@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "How we're rebranding Schk!"
-date: 2018-06-15 11:46:42
 categories: juunoco team
 ---
 
