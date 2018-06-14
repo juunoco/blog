@@ -2,7 +2,6 @@
 layout: post
 title: Let's Talk About Our First Game
 category: general
-date: 2018-01-30 12:09:42
 tags: blob puzzle
 cache: false
 ---
