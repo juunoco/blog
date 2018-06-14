@@ -1,6 +1,5 @@
 ---
 layout: post
-comments: true
 title: Let's Talk About Our First Game
 category: general
 tags: blob puzzle
