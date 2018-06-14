@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Let's Talk About Our First Game
 category: general
 tags: blob puzzle
@@ -10,13 +11,13 @@ This is my first time writing a blog post, or any type of media, so bear with me
 
 Juuno is developing a puzzle game called **Blob**. We've been working on it for about four months since last September and are preparing for gold release by the first half of 2018. It's an abstract game where you slice rectangles into different sizes to fulfill goals for the level.
 
-Before we get into the details, Blob has got three main features that we're really excited about
+Before we get into the details, Blob has got three main features that we're really excited about, and we kept these features in mind while making our product.
 
 	* It's easy to start playing
 	* Can be played by anyone (all ages)
 	* It's relaxing 
 
-During our design and development, and redesign and redevelopment, we constantly kept these in mind. Blob should be embracable by _everyone_, and it should be so easy to play that instructions are kept to a minimum. The level progression should be the natural tutorial for new players, and players who are not so familiar with puzzle games.
+During our design and development, redesign and redevelopment, we constantly kept these in mind. Blob should be embracable by _everyone_, and it should be so easy to play that instructions are kept to a minimum. The level progression should be the natural tutorial for new players, and players who are not so familiar with puzzle games.
 
 However, we're also aiming for something relaxing, so that players can immerse themselves in Blob's world and enjoy where they are.
 
@@ -77,8 +78,6 @@ That's all I'm allowed to tell you about the rules of Blob, of course there's a 
 <div style="text-align: right">
 Cheers, gieoon 31/01/2018
 </div>
-
-
 
 
 
