@@ -1,8 +1,8 @@
-# Juuno's Blog
+# Juunoco's Official Blog
 
 ## Creating a new Post:
 
-Juuno Blog is using Jekyll and Ruby gems
+Juuncoo Blog is using Jekyll and Ruby gems
 
 A simple explanation has been written below, any unclarified questions can be found in the [documentation](https://jekyllrb.com/docs/usage/)
 
