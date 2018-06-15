@@ -5,7 +5,7 @@ author: gieoon
 categories: juunoco team
 featured: true
 tags: marketing blob
-image: assets/images/blob_logo-web.png
+image: https://juunoco.github.io/blog/assets/images/blob_logo-web.png
 cache: false
 hidden: true
 ---

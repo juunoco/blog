@@ -5,7 +5,7 @@ author: gieoon
 category: [ general, blob]
 tags: blob puzzle
 comments: true
-image: assets/img/dog_meditation2.png
+image: https://juunoco.github.io/blog/assets/img/dog_meditation2.png
 featured: false
 ---
 
