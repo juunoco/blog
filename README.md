@@ -5,6 +5,7 @@
 Juuncoo Blog is using Jekyll and Ruby gems
 In particular, it has now stopped using the default 'minima' theme, and is now using a custom theme on Github.
 https://wowthemesnet.github.io/mediumish-theme-jekyll/
+with documentation https://github.com/wowthemesnet/mediumish-theme-jekyll
 
 
 A simple explanation has been written below, any unclarified questions can be found in the [documentation](https://jekyllrb.com/docs/usage/)
