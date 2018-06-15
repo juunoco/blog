@@ -5,7 +5,7 @@ author: gieoon
 categories: juunoco team
 featured: true
 tags: marketing blob
-image: {{ site.url }}/assets/images/blob_logo-web.png
+image: https://juunoco.github.io/blog/assets/images/blob_logo-web.png
 cache: false
 hidden: true
 ---
@@ -29,14 +29,14 @@ So here's the story of our logo. It's interesting to note that I was happy with 
 
 
 
-![The First Logo]({{ site.url }}/assets/images/ic_blob_logo-web.png)
+![The First Logo](https://juunoco.github.io/blog/assets/images/ic_blob_logo-web.png)
 
 
 The logo I made... 
 
-![The Second Logo]({{ site.url }}/assets/images/ic_launcher-web.png)
+![The Second Logo](https://juunoco.github.io/blog/assets/images/ic_launcher-web.png)
 
-![The Third Logo]({{ site.url }}/assets/images/blob_logo-web.png)
+![The Third Logo](https://juunoco.github.io/blog/assets/images/blob_logo-web.png)
 
 ###Did you know there was another name in between?
 
