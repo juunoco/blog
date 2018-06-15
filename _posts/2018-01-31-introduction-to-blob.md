@@ -54,7 +54,7 @@ It's easy</center>
 
 Okay, but what if the cake is one of those weird cakes that can't be easily split into five? _(For some reason...It's a Triangular Cake)_
 
-![The Scalene Triangle]({{ site.url }}/assets/img/scalene_triangle2.png)
+![The Scalene Triangle]({{ site.url }} /assets/img/scalene_triangle2.png)
 
 Or maybe each person wants a different sized piece...
 

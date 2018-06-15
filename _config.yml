@@ -24,7 +24,7 @@ favicon: 'assets/images/favicon.ico'
 meta_description: "Juunoco  Devlog"
 assets:
     cache: false
-title: Juunoco's Blog
+title: Juunoco Devlog
 email: juunoco@gmail.com
 description: >- 
     Keeping you updated with our latest designs and developments 
@@ -47,7 +47,7 @@ plugins:
   - jekyll-paginate
   - jekyll-archives
   
-repository: juunoco.github.io/blog
+repository: https://juunoco.github.io/blog
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
