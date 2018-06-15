@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How we're rebranding Schk!"
+title:  "How we're rebranding Portions"
 author: gieoon
 categories: juunoco team
 featured: true
@@ -38,7 +38,7 @@ The logo I made...
 
 ![The Third Logo](https://juunoco.github.io/blog/assets/images/blob_logo-web.png)
 
-###Did you know there was another name in between?
+### Did you know there was another name in between?
 
 Actually, before we even settled on the name Portions, we had decided on Schk!.  
 
@@ -50,17 +50,17 @@ In saying that, what happens when the player turns off the sound? Then there's n
 
 Yes, I agree, but we surmised that even without sound, the game would feel more natural with a name that feels slicker and faster, and more unique, and would get more people in the front door.
 
-###Okay, so why Portions?
+### Okay, so why Portions?
 
 From the initial stages of designing this game, we knew it was abstract, that character art probably wouldn't fit it very well, so we knew a somewhat abstract title would suit it well, there was no point calling the game 'Fluffy Yellow Duck'.
 
 So, I thought about 'Slices', or 'Splits', but portions sounded like exactly the idea Blob was about. So, when Donna suggested it, I leaped onto it. 
 
-###So you sell yourself to fit a crowd?
+### So you sell yourself to fit a crowd?
 
 Ummm...yes. But also, like one of those ancient Philosophical questions that have plagued the human race for centuries, if there is no one to play a game, is a game still a game? 
 
-###So how do you like the new brand
+### So how do you like the new brand
 
 I think we're both pretty happy with the way things are, and hopefully we won't need to change the brand too much anymore. 
 

@@ -18,7 +18,7 @@ defaults:
       #path: "assets/img"
     values:
       image: true
-name: "Juunoco's Blog"
+name: "Juunoco Devlog"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 meta_description: "Juunoco  Devlog"
