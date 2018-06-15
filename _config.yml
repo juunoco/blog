@@ -23,7 +23,7 @@ assets:
 title: Juunoco's Official Blog
 email: juunoco@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Juuno &copy; 2018
+  Juunoco (C) 2018 Auckland NZ,
   Powered by Jekyll
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "http://www.juunoco.github.io" # the base hostname & protocol for your site, e.g. http://example.com
@@ -34,7 +34,7 @@ facebook_username: juunoco
 
 # Build settings
 markdown: kramdown
-theme: minima #other themes are not compatible aye.
+theme: minima #other themes are not compatible with blogs, and will show up blank
 plugins:
   - jekyll-feed
 repository: juunoco.github.io/blog
@@ -46,7 +46,7 @@ exclude:
 #   - Gemfile
 #   - Gemfile.lock
 #   - node_modules
-   - vendor/bundle/
+   - vendor/bundle/ #need to exclude this to prevent weird date error from compiled file
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
