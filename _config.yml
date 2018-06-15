@@ -19,9 +19,9 @@ defaults:
     values:
       image: true
 name: "Juunoco's Blog"
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
-meta_description: "Juunoco Official Blog"
+logo: https://juunoco.github.io/blog/assets/images/logo.png
+favicon: https://juunoco.github.io/blog/assets/images/favicon.ico
+meta_description: "Juunoco  Devlog"
 assets:
     cache: false
 title: Juunoco's Blog
