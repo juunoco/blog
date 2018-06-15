@@ -66,7 +66,8 @@ Here's a rundown of the settings.
 * categories: if possible, please use existing categories, otherwise you can just create categories
 * image: the image which features in the header, what makes the post super cool
 * featured: whether this post should be placed in the 'featured' section of the blog. (probably yes, we'll have to manually trigger no, on the old ones)
-*hidden: 
+*comments: should there be comments?
+*hidden: if featured is true, then do not show in all posts again.
 
 
 Make sure to include your name/alias at the end of the blog post, and the date of publishing in format dd/mm/YYYY.
