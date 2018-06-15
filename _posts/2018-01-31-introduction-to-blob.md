@@ -7,7 +7,6 @@ tags: blob puzzle
 comments: true
 image: assets/img/dog_meditation2.png
 featured: true
-cache: false
 ---
 
 This is my first time writing a blog post, or any type of media, so bear with me.  I wanted to describe our first and new project
