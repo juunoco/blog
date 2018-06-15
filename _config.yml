@@ -14,7 +14,6 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 defaults:
-  - 
     scope: 
       path: "assets/img"
     values:
@@ -47,7 +46,7 @@ repository: juunoco.github.io/blog
 #   - Gemfile
 #   - Gemfile.lock
 #   - node_modules
-   - vendor/bundle/
+   vendor/bundle/
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
