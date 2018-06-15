@@ -34,7 +34,7 @@ facebook_username: juunoco
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-minimal
+theme: minima #other themes are not compatible aye.
 plugins:
   - jekyll-feed
 repository: juunoco.github.io/blog
