@@ -19,8 +19,8 @@ defaults:
     values:
       image: true
 name: "Juunoco's Blog"
-logo: https://juunoco.github.io/blog/assets/images/logo.png
-favicon: https://juunoco.github.io/blog/assets/images/favicon.ico
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/favicon.ico'
 meta_description: "Juunoco  Devlog"
 assets:
     cache: false
@@ -30,7 +30,7 @@ description: >-
     Keeping you updated with our latest designs and developments 
 # this means to ignore newlines until "baseurl:" >- '<p> &copy; </p>'
 baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "http://www.juunoco.github.io" 
+url: "https://www.juunoco.github.io" 
 # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: juunoco1
 github_username:  juunoco
