@@ -14,34 +14,45 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 defaults:
-    scope: 
-      path: "assets/img"
+    #scope: 
+      #path: "assets/img"
     values:
       image: true
+name: "Juunoco Blog"
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/logo.png'
+meta_description: "Juunoco Official Blog"
 assets:
     cache: false
-title: Juunoco's Official Blog
+title: Juunoco's Blog
 email: juunoco@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Juunoco (C) 2018 Auckland NZ,
-  Powered by Jekyll
+description: >- 
+    Juunoco (C) 2018 Auckland NZ, 
+    Powered by Jekyll
+# this means to ignore newlines until "baseurl:" >- '<p> &copy; </p>'
 baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "http://www.juunoco.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://www.juunoco.github.io" 
+# the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: juunoco1
 github_username:  juunoco
 facebook_username: juunoco
-# facebook_username: juunoco
 
 # Build settings
-markdown: kramdown
-theme: minima #other themes are not compatible with blogs, and will show up blank
+#markdown: kramdown
+#theme: minima 
+#other themes are not compatible with blogs, and will show up blank
+#remote-theme: wowthemesnet/mediumish-theme-jekyll
+#theme: mediumish-theme-jekyll
 plugins:
   - jekyll-feed
+  - jekyll-paginate
+  - jekyll-archives
+  
 repository: juunoco.github.io/blog
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
-exclude:
+exclude: #no space allowed in front of this, or will throw compilation error
 #    - vendor
 #   - Gemfile
 #   - Gemfile.lock
@@ -50,3 +61,21 @@ exclude:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# Archives
+jekyll-archives:
+  enabled:
+    - categories
+  layout: archive
+  permalinks:
+    category: '/category/:name/'
+    
+# Pagination 
+paginate: 6
+paginate_path: /page:num/
+    
+# Other
+markdown: kramdown
+highlighter: rouge
+
+

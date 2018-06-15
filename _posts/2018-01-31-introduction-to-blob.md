@@ -1,8 +1,11 @@
 ---
 layout: post
 title: Let's Talk About Our First Game
-category: general
+author: gieoon
+category: [ general, blob]
 tags: blob puzzle
+image: assets/img/dog_meditation2.png
+featured: true
 cache: false
 ---
 

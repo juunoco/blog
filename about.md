@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-This is Juuno's Official Blog housing our latest updates and discoveries.
+This is Juunoco's Official Blog, we keep you updated with our latest discoveries.
 
 You can expect to find information on
 
-* What we're doing now 
-* How we're making games 
+* What we're creating now, and why we're creating it 
+* Technical decisions we are making in the process
+* Creative decisions that we go through
 
 Our blog posts are split between technical content aimed at developers, and casual content aimed at everyone. Hopefully you'll find something useful and interesting.
 
