@@ -7,6 +7,7 @@ featured: true
 tags: marketing blob
 image: assets/images/blob_logo-web.png
 cache: false
+hidden: true
 ---
 
 How we rebranded Portions, and brainstormed different names to try and make it more appealing to the audience that we had in mind. It's imaginary. and it sounds that way too.
@@ -28,14 +29,14 @@ So here's the story of our logo. It's interesting to note that I was happy with 
 
 
 
-![The First Logo](http://juunoco.github.io/blog/assets/images/ic_blob_logo-web.png)
+![The First Logo](https://juunoco.github.io/blog/assets/images/ic_blob_logo-web.png)
 
 
 The logo I made... 
 
-![The Second Logo](http://juunoco.github.io/blog/assets/images/ic_launcher-web.png)
+![The Second Logo](https://juunoco.github.io/blog/assets/images/ic_launcher-web.png)
 
-![The Third Logo](http://juunoco.github.io/blog/assets/images/blob_logo-web.png)
+![The Third Logo](https://juunoco.github.io/blog/assets/images/blob_logo-web.png)
 
 ###Did you know there was another name in between?
 
