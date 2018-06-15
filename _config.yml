@@ -38,12 +38,12 @@ markdown: kramdown
 theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
-
+repository: juunoco.github.io/blog
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
- exclude:
-    [vendor]
+# exclude:
+#    - vendor
 #   - Gemfile
 #   - Gemfile.lock
 #   - node_modules
