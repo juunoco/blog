@@ -7,7 +7,7 @@ featured: true
 tags: marketing dado one tap mobile 
 image: https://juunoco.github.io/blog/assets/images/2018-08-11_1.png
 cache: false
-hidden: false
+hidden: true
 ---
 
 ### What genre? (20 points X 3)

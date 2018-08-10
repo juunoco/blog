@@ -122,5 +122,7 @@ WHO WE ARE
 Two students who felt a hobby for making and developing projects?
 Want to show them to people, joy from seeing others on a train, etc, playing them.
 
+About our finances...
+The hours spent developing ideas, perhaps for investment, but to see how expensive it is.
 
 -gieoon 01/02/2018

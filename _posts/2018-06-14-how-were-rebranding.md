@@ -3,11 +3,11 @@ layout: post
 title:  "How we're rebranding Portions"
 author: gieoon
 categories: juunoco team
-featured: true
+featured: false
 tags: marketing blob
 image: https://juunoco.github.io/blog/assets/images/blob_logo-web.png
 cache: false
-hidden: true
+hidden: false
 ---
 
 How we rebranded Portions, and brainstormed different names to try and make it more appealing to the audience that we had in mind. It's imaginary. and it sounds that way too.

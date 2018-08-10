@@ -7,7 +7,7 @@ featured: true
 tags: marketing blob
 image: https://juunoco.github.io/blog/assets/images/blob_logo-web.png
 cache: false
-hidden: false
+hidden: true
 ---
 
 ### What's The Hardest Step?
