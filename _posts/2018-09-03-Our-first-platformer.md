@@ -5,7 +5,7 @@ author: gieoon
 categories: Juunoco Studio release
 featured: true
 tags: Marketing Frank one tap mobile 
-image: 
+image: https://juunoco.github.io/blog/assets/images/030918/frank_logo.png
 cache: false
 hidden: true
 ---
