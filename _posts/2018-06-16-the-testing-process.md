@@ -3,11 +3,11 @@ layout: post
 title:  "Releasing a game"
 author: gieoon
 categories: juunoco team
-featured: true
+featured: false
 tags: marketing blob
 image: https://juunoco.github.io/blog/assets/images/blob_logo-web.png
 cache: false
-hidden: true
+hidden: false
 ---
 
 ### What's The Hardest Step?
